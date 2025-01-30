@@ -13,7 +13,7 @@ A simple Python script to brute force directories on a web server to discover hi
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/muhammadumermemon/Directory-Brute-Forcer.git
+    git clone https://github.com/muhammadumerbinfarooq/Directory-Brute-Forcer.git
     ```
 2. Navigate to the project directory:
     ```bash
